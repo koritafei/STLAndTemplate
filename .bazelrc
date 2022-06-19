@@ -1,0 +1,14 @@
+#build --action_env=BAZEL_CXXOPTS='-std=c++2b'
+#build --action_env=BAZEL_CXXOPTS='-std=c++1a'
+build --cxxopt="--std=c++2b"
+#build --action_env=BAZEL_CXXOPTS='-O2'
+#build --action_env=BAZEL_CXXOPTS='-g'
+build --cxxopt=-O2
+build --cxxopt=-ggdb
+build -c dbg --verbose_failures
+build --remote_upload_local_results=false
+build --color=yes
+build --copt -DHAVE_ZLIB=1
+build --show_timestamps --keep_going --jobs 600
+# unittest
+test --cache_test_results=no --test_output=errors

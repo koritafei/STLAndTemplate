@@ -1,0 +1,7 @@
+/root/code/STLAndTemplate/build/CMakeFiles/rebuild_cache.dir
+/root/code/STLAndTemplate/build/CMakeFiles/edit_cache.dir
+/root/code/STLAndTemplate/build/allocatordemo/CMakeFiles/edit_cache.dir
+/root/code/STLAndTemplate/build/allocatordemo/CMakeFiles/hashfunc.dir
+/root/code/STLAndTemplate/build/allocatordemo/CMakeFiles/rebuild_cache.dir
+/root/code/STLAndTemplate/build/allocatordemo/CMakeFiles/allocatordemo.dir
+/root/code/STLAndTemplate/build/allocatordemo/CMakeFiles/typedemo.dir

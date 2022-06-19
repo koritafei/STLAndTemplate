@@ -1,0 +1,9 @@
+# ninja log v5
+670	1338	1631933079826920176	allocatordemo/typedemo	a7384d8512bd5965
+2532	5451	1631933083943989917	allocatordemo/allocatordemo	cd6dd488b480443a
+62	1460	1632268910260732696	allocatordemo/CMakeFiles/typedemo.dir/typedemo.cc.o	8ddbfbe818783cb8
+57	4777	1632268913575320690	allocatordemo/CMakeFiles/allocatordemo.dir/allocatordemo.cc.o	6fbd9658d52e3e86
+47	1324	1632269016752400605	allocatordemo/typedemo	a7384d8512bd5965
+36	2217	1632269017672766339	allocatordemo/CMakeFiles/hashfunc.dir/hashfunc.cc.o	f8e0e0f0d52847e4
+3075	4710	1632269020160675527	allocatordemo/hashfunc	4ea2b4cdd791ba0
+37	6024	1632269021487261690	allocatordemo/allocatordemo	cd6dd488b480443a
