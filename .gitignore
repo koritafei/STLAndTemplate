@@ -1,3 +1,4 @@
 .vs-code
 bazel-*
 .cache
+.DS_Store
