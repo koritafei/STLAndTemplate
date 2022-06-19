@@ -2,3 +2,5 @@
 bazel-*
 .cache
 .DS_Store
+build
+.gitignore
